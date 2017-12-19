@@ -15,3 +15,4 @@ https://docs.emmet.io/cheat-sheet/
   - https://repl.it/
   - https://codepen.io/
   - https://jsbin.com/
+- [etc...](./ide.md)
