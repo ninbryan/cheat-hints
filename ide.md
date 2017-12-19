@@ -49,6 +49,8 @@
 - https://codepen.io/
 - https://jsbin.com/
 
+---
+
 ## resources
 
 [https://github.com/ninbryan/cheat-hints/](https://github.com/ninbryan/cheat-hints/)
