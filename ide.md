@@ -45,9 +45,11 @@
 
 ## others
 
+- https://codepan.net/
 - https://repl.it/
 - https://codepen.io/
 - https://jsbin.com/
+- https://jsfiddle.net/
 
 ---
 
